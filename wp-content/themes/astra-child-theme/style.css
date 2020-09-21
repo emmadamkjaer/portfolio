@@ -1,0 +1,152 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://emmadamkjaer.dk
+ Description:  Astra Child Theme
+ Author:       Emma Damkjær
+ Author URI:   http://emmadamkjaer.dk
+ Template:     astra
+ Version:      1.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+
+body {
+    background-color: #ADB0C2 !important;
+	font-family: Roboto !important;
+}
+
+/* Styling på header */
+
+.main-header-bar {
+    position: fixed !important;
+    width: 100% !important;
+    background-color: white !important;
+
+
+}
+
+a.menu-link {
+    font-family: Roboto !important;
+    font-size: 17px !important;
+   color: black !important;
+  font-weight: bold;
+
+}
+
+#menu-item-2175 :hover {
+    color: #ADB0C2 !important;
+}
+
+#menu-item-1902 :hover {
+    color: #ADB0C2 !important;
+}
+
+#menu-item-344 :hover {
+    color: #ADB0C2 !important;
+}
+
+#menu-item-343 :hover {
+    color: #ADB0C2 !important;
+
+}
+
+#menu-item-2175 {
+    color: #ADB0C2 !important;
+     font-family: Roboto Medium !important;
+    font-size: 18px !important;
+}
+
+#menu-item-1902 {
+    color: #ADB0C2 !important;
+     font-family: Roboto Medium !important;
+    font-size: 18px !important;
+}
+
+#menu-item-344 {
+    color: #ADB0C2 !important;
+     font-family: Roboto Medium !important;
+    font-size: 18px !important;
+}
+
+#menu-item-343 {
+    color: #ADB0C2 !important;
+     font-family: Roboto Medium !important;
+    font-size: 18px !important;
+
+}
+.ast-site-header-cart-li {
+    display: none !important;
+}
+
+/*Styling på tekst */
+
+h1 {
+    font-family: Bebas Neue !important;
+    color: #14248A !important;
+    font-size: 100px !important;
+  font-weight: bold !important;
+}
+
+h2 {
+    font-family: Bebas Neue !important;
+    color: #14248A !important;
+    font-size: 65px !important;
+}
+
+h3 {
+    font-family: Roboto !important;
+    color: #14248A !important;
+}
+
+h6 {
+    font-family: Roboto !important;
+    color: #14248A !important;
+    font-size: 13px !important;
+
+}
+
+
+p {
+    font-family: Roboto !important;
+    color: black !important;
+    font-size: 17px !important;
+  line-height: 35px !important;
+}
+
+#elementor-widget-container {
+  font-family: Bebas Neue !important;
+  font-size: 40px !important;
+}
+
+.elementor-tab-title a {
+  font-family: Roboto !important;
+  font-size: 18px !important;
+}
+ 
+li {
+   font-family: Roboto !important;
+    color: black !important;
+    font-size: 17px !important;
+}
+
+
+.elementor-column.elementor-col-33,
+.elementor-column[data-col="33"] {
+    padding: 1.5%;
+}
+
+/*Footer*/
+
+footer {
+  background-color: #ADB0C2 !important;
+}
+
+.elementor-1600 .elementor-element.elementor-element-88855a2 {
+    background-color: #888DA7 !important;
+}
+
+
+
+
